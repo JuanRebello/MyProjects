@@ -24,8 +24,8 @@ Este projeto é uma aplicação de interface gráfica de usuário (GUI) desenvol
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/JuanRebello/MyProjects
-
+   git clone https://github.com/JuanRebello/MyProjects/tree/main
+   
 2. **Navegue até o diretório do projeto:**
    ```bash
    cd seu-repositorio
